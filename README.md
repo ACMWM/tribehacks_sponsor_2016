@@ -2,6 +2,12 @@
 
 Check out all the sponsor offerings for tribeHacks II. (Sorted Alphabetically)
 
+Looking for our challenges?
+
+[The AidData “Skytruthiness” Challenge](https://github.com/ACMWM/AidData-TribeHacks-Challenge-2016)	
+
+[Logapps Natural Language Processing Challenge](https://github.com/ACMWM/Logapps-TribeHacks-Challenge-2016)	
+
 ### Clarifai
 
 Build amazing apps with the world’s best image and video recognition API. 10x more API credits on Free Plan
