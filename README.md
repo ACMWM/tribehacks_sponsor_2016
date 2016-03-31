@@ -6,19 +6,19 @@ Check out all the sponsor offerings for tribeHacks II. (Sorted Alphabetically)
 
 Build amazing apps with the world’s best image and video recognition API. 10x more API credits on Free Plan
 
-	* [Click here for access](developer.clarifai.com/signup/?code=TribeHacks)	
+[Click here for access](developer.clarifai.com/signup/?code=TribeHacks)	
 
 ### Clean Coders
 
 Clean Coders is the leading producer of instructional videos for software professionals, taught in a way that both educates and entertains developers. Founded in 2010 by Robert "Uncle Bob" Martin and Micah Martin, Clean Coders has expanded to include a myriad of authors teaching an ever-increasing array of subject matters pertaining to clean code. Our training videos have inspired countless viewers to become the best developers they can be. 
 
-	* [Click here to redeem your gift certificate](http://tribehacks.com/assets/cleancoders.pdf)
+[Click here to redeem your gift certificate](http://tribehacks.com/assets/cleancoders.pdf)
 
 ### Dash 
 
 Dash is an API Documentation Browser and Code Snippet Manager. Dash stores snippets of code and instantly searches offline documentation sets for 150+ APIs (for a full list, see below). You can even generate your own docsets or request docsets to be included. Take advantage of this before arriving! Register here. 
 
-	* [Click here for access](https://kapeli.com/tribehacks)
+[Click here for access](https://kapeli.com/tribehacks)
 
 ### DigitalOcean
 
