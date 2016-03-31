@@ -2,30 +2,17 @@
 
 Check out all the sponsor offerings for tribeHacks II. (Sorted Alphabetically)
 
-### Namecheap
+### Clarifai
 
-Claim your free domain. For a limited time, Namecheap is giving students a free bundle to kickstart their online presence. 
+Build amazing apps with the world’s best image and video recognition API. 10x more API credits on Free Plan
 
-	* Pick up at check in or speak with one of the organizers for the code.
-
-### Thalmic Labs
-
-Sit Back, Relax, and Take Control. Myo lets you take control of your digital world from a distance: browse the web with the flick of a wrist. We've got 12 Myos to for you to develop with. 
-
-	* Pick up at the Hardware Lab.
+	* [Click here for access](developer.clarifai.com/signup/?code=TribeHacks)	
 
 ### Clean Coders
 
 Clean Coders is the leading producer of instructional videos for software professionals, taught in a way that both educates and entertains developers. Founded in 2010 by Robert "Uncle Bob" Martin and Micah Martin, Clean Coders has expanded to include a myriad of authors teaching an ever-increasing array of subject matters pertaining to clean code. Our training videos have inspired countless viewers to become the best developers they can be. 
 
 	* [Click here to redeem your gift certificate](http://tribehacks.com/assets/cleancoders.pdf)
-
-
-### Twilio
-
-Build apps that communicate with everyone in the world. A Messaging, Voice, Video and Authentication API for every application.
-
-	* Pick up credits at check in or speak with one of the organizers for the code.
 
 ### Dash 
 
@@ -39,11 +26,24 @@ DigitalOcean: Simple Cloud Computing, Built for Developers. Deploy an SSD cloud 
 
 	* Pick up at check in or speak with one of the organizers for a Love Pack.
 
-### Clarifai
+### Namecheap
 
-Build amazing apps with the world’s best image and video recognition API. 10x more API credits on Free Plan
+Claim your free domain. For a limited time, Namecheap is giving students a free bundle to kickstart their online presence. 
 
-	* [Click here for access](developer.clarifai.com/signup/?code=TribeHacks)
+	* Pick up at check in or speak with one of the organizers for the code.	
+
+### Thalmic Labs
+
+Sit Back, Relax, and Take Control. Myo lets you take control of your digital world from a distance: browse the web with the flick of a wrist. We've got 12 Myos to for you to develop with. 
+
+	* Pick up at the Hardware Lab.
+
+### Twilio
+
+Build apps that communicate with everyone in the world. A Messaging, Voice, Video and Authentication API for every application.
+
+	* Pick up credits at check in or speak with one of the organizers for the code.	
+
 
 ### .tech
 
